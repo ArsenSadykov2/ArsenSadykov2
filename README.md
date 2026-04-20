@@ -3,8 +3,8 @@
 Full Stack Developer from Bishkek 🇰🇬
 
 ## 🚀 About Me
-- 🔭 I'm currently working on **promo-api** — a REST API for promo code management
-- 🌱 I'm deepening my knowledge in **backend development & system design**
+- 🔭 Recently completed **promo-api** — REST API for promo code management
+- 🌱 Currently deepening skills in **backend architecture & system design**
 - 💡 Interested in **AI, automation, and scalable backend systems**
 - 📫 Reach me at: loco10291998@gmail.com
 - 🏆 Codewars **6 kyu** — regularly practice algorithms
