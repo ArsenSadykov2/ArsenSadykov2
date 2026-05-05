@@ -1,5 +1,7 @@
 # Hi, I'm Arsen 👋
 
+[![Codewars](https://www.codewars.com/users/JessyPinkmanLoCo/badges/large)](https://www.codewars.com/users/JessyPinkmanLoCo)
+
 **Project Manager & Full Stack Developer** from Bishkek 🇰🇬
 
 ## 👨‍💼 About Me
