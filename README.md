@@ -25,7 +25,7 @@
 
 ## 💼 IT experience
 
-### Full Stack Developer — New Post Logistics Platform *(2024–2025)*
+### Full Stack Developer — New Post Logistics Platform *(2025–2026)*
 - Architected MongoDB schemas for order management  
 - Built REST API with NestJS (parcel creation + tracking)  
 - Developed React frontend: 5-step wizard + interactive Leaflet map  
