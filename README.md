@@ -2,7 +2,7 @@
 
 [![Codewars](https://www.codewars.com/users/JessyPinkmanLoCo/badges/large)](https://www.codewars.com/users/JessyPinkmanLoCo)
 
-**Full Stack Developer & Project Manager** from Bishkek 🇰🇬  
+**Full Stack Developer** from Bishkek 🇰🇬  
 
 ---
 
